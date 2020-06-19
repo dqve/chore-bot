@@ -12,3 +12,4 @@ A fully functional Javascript implementation of the chore bot scifi game
 
 ## Author
 * **David Ayo**⚡⚡ - [🐦](https://twitter.com/dqve__)
+
